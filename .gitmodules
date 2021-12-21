@@ -1,0 +1,6 @@
+[submodule "ext/blaze"]
+	path = ext/blaze
+	url = https://bitbucket.org/blaze-lib/blaze.git
+[submodule "ext/blaze_tensor"]
+	path = ext/blaze_tensor
+	url = https://github.com/STEllAR-GROUP/blaze_tensor.git
