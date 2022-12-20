@@ -1,6 +1,6 @@
 # CloudLB: Portable Lattice Boltzmann Simulator
 
-[![CI](https://img.shields.io/github/workflow/status/vavrines/CloudLB/CI?style=flat-square)](https://github.com/vavrines/CloudLB/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/vavrines/CloudLB/ci.yml?branch=main&style=flat-square)](https://github.com/vavrines/CloudLB/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 The CloudLB framework is a high-performance open source platform for solving the lattice Boltzmann equation, which is commonly adopted to fluid dynamics.
